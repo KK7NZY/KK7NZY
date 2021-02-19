@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdsantiagojr&langs_count=5&&layout=compact)](https://github.com/jdsantiagojr)
+
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdsantiagojr&count_private=true&show_icons=true&hide_title=true)](https://github.com/jdsantiagojr)
+
+
 <!--
 **jdsantiagojr/jdsantiagojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
