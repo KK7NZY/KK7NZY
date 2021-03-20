@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jdsantiagojr&show_icons=true&count_private=true" alt="John's GitHub Stats" />
 </a>
 
-<a href="https://github.com/FrancescoXX/FrancescoXX">
+<a href="https://github.com/jdsantiagojr/jdsantiagojr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdsantiagojr" />
 </a>
 
